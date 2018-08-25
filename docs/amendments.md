@@ -1,4 +1,4 @@
-[Previous: agenda](https://jonatankilhamn.github.io/3d6constitution/docs/agenda)
+[Previous: agenda](docs/agenda)
 
 <h1>Amendments</h1>
 <h2>I. On sessions</h2>
@@ -179,4 +179,4 @@ Our proposed combat round represents approximately one minute within the fiction
   This amendment was written around 2018-08-23.
 </details>
 
-[Next: corpus juris](https://jonatankilhamn.github.io/3d6constitution/docs/corpusjuris)
+[Next: corpus juris](corpusjuris)

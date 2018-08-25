@@ -21,4 +21,4 @@ Those who put time and effort into the game have a responsibility of upholding t
   The agenda was written around 2018-08-23.
 </details>
 
-[Next: Amendments][amendments.md]
+[Next: Amendments](docs/amendments)

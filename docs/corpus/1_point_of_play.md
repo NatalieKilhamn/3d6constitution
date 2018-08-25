@@ -23,6 +23,7 @@ From [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/foru
 
 From [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
 > * Opt out as a strategic choice.
->   * Players should not adopt poor risk/reward propositions "because they're there". A better option is never far off.</details><br/>
+>   * Players should not adopt poor risk/reward propositions "because they're there". A better option is never far off
+</details><br/>
 
 1.5 The referee can lead the negotiation of what should be played, in particular by proposing trade-offs that quickly establish a situation everyone is interested in. Example: skipping over the details of supplying an expedition, and instead having the characters pay an eyeballed flat rate and starting the session just outside the expedition's goal.

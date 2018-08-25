@@ -1,8 +1,12 @@
 <h2>4. Characters</h2>
 
 4.1 The main ability scores used are i) _strength_, a generic measure of physical competence, ii) _wits_, a measure of quick-thinking and alertness, iii) _knowledge_, a measure of lore and skill, iv) _will_, a measure of mental fortitude and being in tune with oneself, and v) _charisma_, a measure of social intelligence.
+<details><summary markdown="span">Click for history and notes</summary>
 
-4.2 Each attribute is determined by rolling 3d6 when the character is created. A score of 10 indicates an average adult human.
+Clear linage from [Eero Tuovinen on "Primitive DnD"](http://story-games.com/forums/discussion/comment/326393/#Comment_326393).
+</details><br/>
+
+4.2 Each attribute is determined by rolling 3d6 when the character is created. A score of 10 is considered that of an average adult human.
 
 4.3 Player characters can have a character class, granting special abilities outside of the ability scores. Characters also have a level, which usually starts at 1 and increases as they gain enough experience points, conferring various upgrades.
 
@@ -15,9 +19,18 @@
 4.7 The three basic character classes are i) _fighters_, who excel at combat; ii) _sages_, who excel in knowledge, and iii) _adventurers_, who are more flexible and might specialise in other fields.
 
 4.8 A new character must be i) human, ii) from the "civilised world" or Gaul, and iii) relatively short on money. Any player who wishes to create a character different from this must have their concept accepted by the referee. Any player who wishes to use a non-standard character concept that has already been used once may only do so on a roll of 1 on a d6.
+<details><summary markdown="span">Click for history and notes</summary>
+
+Points i) and iii) are almost universal, while point ii) is specific to the "fantasy Europe" setting used in Maastricht '18. Its intent, when originally laid down by the referee of Maastricht '18, was to clearly delineate a part of the world that considers itself to be "the civilized world", and have all player characters be either from there, or from the pre-approved exception of Gaul.
+</details><br/>
 
 4.9 A player who participates in a session is rewarded with an opportunity to slightly improve a character they played in that session. This is done by rolling a d20 against any ability; on a roll higher than the ability score, the ability is raised by one point. On a lower roll, the player may try again against another ability. They only get to try to improve each ability once; if all fail, no such improvement happens that session.
 
 4.10 A character has certain skills, rated from 0 to 100, where 0 means practically unaware of the skill and 100 means as well-versed as a regular human can get. Some ability checks are modified by the skill value, meaning the ability score is multiplied by the skill value interpreted as a percentage.
 
 4.11 A character's skills are not recorded exhaustively. When a skill is used for the first time, the group considers the character's background and determine a reasonable skill level for them. Skills can go up and down according to the group's shared view of the character.
+<details><summary markdown="span">Click for history and notes</summary>
+
+In [Eero's explanation of his skill system](http://www.story-games.com/forums/discussion/comment/462703/#Comment_462703), he also includes the option to "frivolously" improve a skill instead of an ability score (_cf_ 4.9). That rule might find its way into our rules, if someone makes a push for it.
+</details><br/>
+

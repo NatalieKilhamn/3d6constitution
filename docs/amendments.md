@@ -16,40 +16,14 @@ WHEREAS both hierarchies and the use of a chairman can ease quick decision-makin
 
 WE PROPOSE that we defer to more senior participants (with regards to the game), or even lend the most senior the role of chairman, leading the discussion and deciding between equally-supported options.
 
-<details><summary markdown="span">Click for history and notes 1</summary>
-
-```swift
-public var markdown: String
-```
-
-> Generated Markdown output
-
- Link and block quote 1: [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+<details><summary markdown="span">Click for history and notes</summary>
+ 
+This amendment was written around 2018-08-23. It can be seen as a version of that OSR mantra: “rulings, not rules”. It also owes to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
 > * When uncertain how best to proceed, refer to the Point of play and Basic context, above.
 >   * The ref may lead the conversation, but everyone has an equal voice. Pay special heed to anyone with experience in this game, and give special skepticism to experience from other games with different agendas.
 > * \[...\]
 > * Rules are there to connect the Point of play to the situation of the moment. Always do whatever best serves that purpose, even if it means breaking, changing, or ignoring a rule.
 >   * If any of your adjustments wind up being applied more than once, congrats, you've added a rule!
-
-  Link and block quote 2: [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
-  ```
-  * Established fiction is an absolute constraint. If either the imagined world or a rule must give, the rule gives.
-    * This does not mean the ref's first word is always law. Refs are fallible and the players' judgment of the fiction matters too.
-  ```
-
-</details>
-
-<details>
-  <summary>Click for history and notes</summary>
-  
-  This amendment was written around 2018-08-23. It can be seen as a version of that OSR mantra: "rulings, not rules". The amendment also owes to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
-  <p>
-> * When uncertain how best to proceed, refer to the Point of play and Basic context, above.
->   * The ref may lead the conversation, but everyone has an equal voice. Pay special heed to anyone with experience in this game, and give special skepticism to experience from other games with different agendas.
-> * \[...\]
-> * Rules are there to connect the Point of play to the situation of the moment. Always do whatever best serves that purpose, even if it means breaking, changing, or ignoring a rule.
->   * If any of your adjustments wind up being applied more than once, congrats, you've added a rule!
-  </p>
 </details>
 
 <h2>II. On the referee</h2>
@@ -63,9 +37,9 @@ WHEREAS involvement in detailing a challenge might sap the enjoyment from applyi
 
 WE PROPOSE that one participant (or possibly more than one) take on a special role henceforth called the referee, as follows. The referee takes responsibility for portraying the fantasy world, while the other players focus on playing their characters. The referee takes responsibility for presenting a world ripe for adventure and challenge, leaving to the players to figure out how to solve those challenges. The referee takes responsibility for keeping and revealing information about the world, allowing the players to stay closer to the perspective of their characters. Finally, the referee takes responsibility for resolving in-game situations fairly and objectively, allowing the players to choose whether to help in this endeavour or to be their character's advocate.
 
-<details>
-  <summary>Click for history and notes</summary>
-  This amendment was written around 2018-08-23. The referee traditionally holds a lot of power, and this amendments aims to make clear that each of those powers comes from a specific responsibility; any power not implied by any such responsibility is not necessary for the referee to have.
+<details><summary markdown="span">Click for history and notes</summary>
+ 
+This amendment was written around 2018-08-23. The referee traditionally holds a lot of power, and this amendments aims to make clear that each of those powers comes from a specific responsibility; any power not implied by any such responsibility is not necessary for the referee to have.
 </details></br>
 
 <h2>III. On established fiction</h2>
@@ -75,17 +49,12 @@ WE PROPOSE that the established fiction be held in the utmost respect, constrain
 
 FURTHERMORE, we argue that while not part of the collaboratively established fiction, properties determined in secret by the referee should also be held as such. The main reason for this is that facts quickly become entangled with each other, so that a given secret of the world can spread outwards into details already divulged by the referee. With no way of knowing which details are pertinent to hitherto unrevealed plans of the referee and which are simply colourful details improvised when describing a compelling world, we will expect the referee to show their plans the same respect.
 
-<details>
-  <summary>Click for history and notes</summary>
-  
-  <p>
-  This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
-  ```
-  * Established fiction is an absolute constraint. If either the imagined world or a rule must give, the rule gives.
-    * This does not mean the ref's first word is always law. Refs are fallible and the players' judgment of the fiction matters too.
-  ```
-  </p>
-</details></br>
+<details><summary markdown="span">Click for history and notes</summary>
+ 
+This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+> * Established fiction is an absolute constraint. If either the imagined world or a rule must give, the rule gives.
+>   * This does not mean the ref's first word is always law. Refs are fallible and the players' judgment of the fiction matters too.
+</details>
 
 <h2>IV. On the limits of established fiction</h2>
 WHEREAS there are other considerations than the satisfying resolution of challenges, and
@@ -98,11 +67,11 @@ FURTHERMORE, we acknowledge that despite our best efforts at clear communication
 
 FINALLY, we acknowledge that even with the help of a referee tracking information unknown to the players, there will be cases of previously irrelevant information suddenly becoming crucial without having been established. Here, we propose to use a probabilistic model of the fictional world. With the characters' lives at stake, it can prove difficult to determine fairly whether the dragon is in its cave, but much easier to judge the probability thereof.
 
-<details>
-  <summary>Click for history and notes</summary>
-  
-  This amendment was written around 2018-08-23. Its first proposition owes to [Eero Tuovinen on character motivations](http://www.story-games.com/forums/discussion/comment/428154/#Comment_428154). A key quote: "When PCs need to act in an unrealistic way for play to happen, let them, and perhaps fabulate post-facto justifications for why they're acting that way."
-</details></br>
+<details><summary markdown="span">Click for history and notes</summary>
+
+This amendment was written around 2018-08-23. Its first proposition owes to [Eero Tuovinen on character motivations](http://www.story-games.com/forums/discussion/comment/428154/#Comment_428154). A key quote:
+> When PCs need to act in an unrealistic way for play to happen, let them, and perhaps fabulate post-facto justifications for why they're acting that way.
+</details>
 
 <h2>V. On player characters</h2>
 WHEREAS one player presumably finds it easier to act the part of a single character, and
@@ -123,21 +92,18 @@ WHEREAS an intra-party conflict with high enough stakes could force a player to 
 
 WE PROPOSE that we strive to keep the player characters friends or allies with each other, even when this requires unlikely assumptions about the fiction.
 
-<details>
-  <p>
-  This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
-  ```
-  * The players are a team.
-  * The player's toolkit includes:
-   - a single Adventurer character with many game-defined capabilities, different from the other players' characters
-   - various means to assess the imagined situations (interpersonal as well as via their character)
-   - a nearly infinite array of options — the only absolute limits on character behavior are imposed by the fictional space they inhabit
-  * Adventurers are always focused on adventuring (you can imagine their lives beyond that, but they won't show up in play).
-  * When Adventurers try to do certain things, their capabilities will be applied to dice rolls to determine success.
-  * The more that Adventurers achieve, the more capable they become, and the more grandiose their feasible challenge options become.
-  ```
-  </p>  
-</details></br>
+<details><summary markdown="span">Click for history and notes</summary>
+ 
+This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+>  * The players are a team.
+>  * The player's toolkit includes:
+>    * a single Adventurer character with many game-defined capabilities, different from the other players' characters
+>    * various means to assess the imagined situations (interpersonal as well as via their character)
+>    * a nearly infinite array of options — the only absolute limits on character behavior are imposed by the fictional space they inhabit
+>  * Adventurers are always focused on adventuring (you can imagine their lives beyond that, but they won't show up in play).
+>  * When Adventurers try to do certain things, their capabilities will be applied to dice rolls to determine success.
+>  * The more that Adventurers achieve, the more capable they become, and the more grandiose their feasible challenge options become.
+</details>
 
 <h2>VI. On character abilities</h2>
 WHEREAS the established properties of the characters within the fiction will quickly become important for the resolution of challenges, and
@@ -150,11 +116,10 @@ FROM THIS, and also from the long tradition of role-playing games in or close to
 
 WE PROPOSE that each player character has a set of numerical scores representing their basic abilities, and that these scores are determined randomly when the character is created; in addition, each player character may have other abilities, skills and properties that may or may not be randomly generated.
 
-<details>
-  <summary>Click for history and notes</summary>
-  
-  This amendment was written around 2018-08-23.
-</details></br>
+<details><summary markdown="span">Click for history and notes</summary>
+
+This amendment was written around 2018-08-23.
+</details>
 
 <h2>VII. On resolving uncertainty</h2>
 
@@ -166,11 +131,10 @@ WHEREAS there is a long tradition of using funny-shaped dice in role-playing gam
 
 WE PROPOSE the open die roll as a basic building block of our resolution procedure, next to the obvious ones of honest interrogation of the shared fiction and thought experiments asking what would actually happen; furthermore that our rules and rulings be free to use dice of various sizes, based on aesthetic preference and convenience as much as on realism.
 
-<details>
-  <summary>Click for history and notes</summary>
+<details><summary markdown="span">Click for history and notes</summary>
   
-  This amendment was written around 2018-08-23.
-</details></br>
+This amendment was written around 2018-08-23.
+</details>
 
 <h2>VIII. On rewards and progression</h2>
 WHEREAS variation is a useful tool for engagement, and
@@ -189,10 +153,10 @@ TO THE EXTENT that such improvements do not correspond to an improvement within 
 
 WE PROPOSE that it be interpreted as a narrative conceit: characters who have lived through many difficult adventures become infused by legend, and we allow changes in our written conception of them to influence the fiction, letting them succeed at ever more unlikely odds.
 
-<details>
-  <summary>Click for history and notes</summary>
-  This amendment was written around 2018-08-23.
-</details></br>
+<details><summary markdown="span">Click for history and notes</summary>
+
+This amendment was written around 2018-08-23.
+</details>
 
 <h2>IX. On the content of challenges</h2>
 WHEREAS a common yardstick for all character promotes fairness, and
@@ -205,10 +169,10 @@ WE PROPOSE that our standard type of challenge should be this: our characters ex
 
 FURTHERMORE, we propose that our fantasy world have a fairly stable currency known as the silver piece, and that the rewards are measured in experience points, where one experience point is awarded for each silver piece salvaged.
 
-<details>
-  <summary>Click for history and notes</summary>
-  This amendment was written around 2018-08-23.
-</details></br>
+<details><summary markdown="span">Click for history and notes</summary>
+
+This amendment was written around 2018-08-23.
+</details>
 
 <h2>X. On combat</h2>
 WHEREAS combat by its nature has high stakes and quick decision-making, and
@@ -227,12 +191,11 @@ Our proposed hit points are an abstract, flexible, partly narrative measure of h
 
 Our proposed combat round represents approximately one minute within the fiction, and is taken to cover each character performing one main combat action: fighting, running away, casting a spell, or any other such attention-demanding thing.
 
-<details>
-  <summary>Click for history and notes</summary>
-  
-  This amendment was written around 2018-08-23. The idea of hit points as being partly narrative has a long history, but the direct influence here is [Eero Tuovinen on combat](http://www.story-games.com/forums/discussion/comment/425370/#Comment_425370): "Hit points are a super-power that is justified by constructive genre expectations, the Hero simply doesn't get killed suddenly in the types of genres mentioned here. Once you understand and accept this, you no longer have difficulty with the mere fact that hitpoints protect high-level characters - they play by their own rules, and the most fundamental of those rules is that they are only occasionally in serious danger from swordsplay."
+<details><summary markdown="span">Click for history and notes</summary>
+
+This amendment was written around 2018-08-23. The idea of hit points as being partly narrative has a long history, but the direct influence here is [Eero Tuovinen on combat](http://www.story-games.com/forums/discussion/comment/425370/#Comment_425370):
+> Hit points are a super-power that is justified by constructive genre expectations, the Hero simply doesn't get killed suddenly in the types of genres mentioned here. Once you understand and accept this, you no longer have difficulty with the mere fact that hitpoints protect high-level characters - they play by their own rules, and the most fundamental of those rules is that they are only occasionally in serious danger from swordsplay.
 </details>
-</br>
 
 [Next: corpus juris](corpusjuris)
 

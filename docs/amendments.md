@@ -18,6 +18,7 @@ WE PROPOSE that we defer to more senior participants (with regards to the game),
 
 <details>
   <summary>Click for history and notes</summary>
+  
   This amendment was written around 2018-08-23. It can be seen as a version of that OSR mantra: "rulings, not rules". The amendment also owes to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
   <p>
 > * When uncertain how best to proceed, refer to the Point of play and Basic context, above.
@@ -53,6 +54,7 @@ FURTHERMORE, we argue that while not part of the collaboratively established fic
 
 <details>
   <summary>Click for history and notes</summary>
+  
   <p>
   This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
   ```
@@ -75,6 +77,7 @@ FINALLY, we acknowledge that even with the help of a referee tracking informatio
 
 <details>
   <summary>Click for history and notes</summary>
+  
   This amendment was written around 2018-08-23. Its first proposition owes to [Eero Tuovinen on character motivations](http://www.story-games.com/forums/discussion/comment/428154/#Comment_428154). A key quote: "When PCs need to act in an unrealistic way for play to happen, let them, and perhaps fabulate post-facto justifications for why they're acting that way."
 </details></br>
 
@@ -126,6 +129,7 @@ WE PROPOSE that each player character has a set of numerical scores representing
 
 <details>
   <summary>Click for history and notes</summary>
+  
   This amendment was written around 2018-08-23.
 </details></br>
 
@@ -141,6 +145,7 @@ WE PROPOSE the open die roll as a basic building block of our resolution procedu
 
 <details>
   <summary>Click for history and notes</summary>
+  
   This amendment was written around 2018-08-23.
 </details></br>
 
@@ -164,7 +169,7 @@ WE PROPOSE that it be interpreted as a narrative conceit: characters who have li
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-</details>
+</details></br>
 
 <h2>IX. On the content of challenges</h2>
 WHEREAS a common yardstick for all character promotes fairness, and
@@ -201,7 +206,11 @@ Our proposed combat round represents approximately one minute within the fiction
 
 <details>
   <summary>Click for history and notes</summary>
+  
   This amendment was written around 2018-08-23. The idea of hit points as being partly narrative has a long history, but the direct influence here is [Eero Tuovinen on combat](http://www.story-games.com/forums/discussion/comment/425370/#Comment_425370): "Hit points are a super-power that is justified by constructive genre expectations, the Hero simply doesn't get killed suddenly in the types of genres mentioned here. Once you understand and accept this, you no longer have difficulty with the mere fact that hitpoints protect high-level characters - they play by their own rules, and the most fundamental of those rules is that they are only occasionally in serious danger from swordsplay."
-</details></br>
+</details>
+</br>
 
 [Next: corpus juris](corpusjuris)
+
+[Back to index](../index)

@@ -1,4 +1,4 @@
-[Previous: Amendments](amendments)
+[Previous: amendments](amendments)
 
 [Back to index](../index)
 

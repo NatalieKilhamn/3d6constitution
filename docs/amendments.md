@@ -1,4 +1,6 @@
-[Previous: agenda](docs/agenda)
+[Previous: agenda](agenda)
+
+[Back to index](../index)
 
 <h1>Amendments</h1>
 <h2>I. On sessions</h2>

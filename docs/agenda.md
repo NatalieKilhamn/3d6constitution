@@ -1,3 +1,5 @@
+[Back to index](../index)
+
 <h1>Agenda</h1>
 <details><summary markdown="span">Click for history and notes</summary>
 
@@ -24,6 +26,6 @@ We strive to be clear, honest and fair towards each other about the game's natur
 
 Those who put time and effort into the game have a responsibility of upholding these principles. Those who take that responsibility have a right be heard if there is need to compromise between different participants' preferences.
 
-[Next: Amendments](amendments)
+[Next: amendments](amendments)
 
 [Back to index](../index)

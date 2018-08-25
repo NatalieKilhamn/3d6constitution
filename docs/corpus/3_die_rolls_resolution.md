@@ -1,6 +1,15 @@
 <h2>3. Die rolls and resolution</h2>
+<details><summary markdown="span">Click for history and notes</summary>
+
+There is a direct lineage from [Eero Tuovinen's system, explained here](http://www.story-games.com/forums/discussion/21099/about-my-old-school-d-d-skill-system).
+</details><br/>
 
 3.1 We resolve tasks by rolling 1d20+ability score, comparing the result to a difficulty class (DC); a result equal to or higher than the DC is considered a success. This roll is called an ability check; any ability check that resolves how a character passively deals with a situation forced upon them is called a "save".
+
+<details><summary markdown="span">Click for history and notes</summary>
+
+The main reason for using the name "save" at all is tradition; it makes published modules to other games in the DnD vein easier to interpret. A secondary effect is that it is easy to formulate rules and abilities that cover specifically saves but not other checks.
+</details><br/>
 
 3.2. If an ability check beats the DC by 5 points or more, we consider this a second degree of success. Each increment of 5 gives yet another degree of success. Conversely, when failing a check each full 5 points below the DC is considered another degree of failure. The interpretation of extra degrees of success and failure varies from case to case.
 

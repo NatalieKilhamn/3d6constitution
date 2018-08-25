@@ -1,4 +1,8 @@
 <h1>Agenda</h1>
+<details><summary markdown="span">Click for history and notes</summary>
+
+The agenda was written around 2018-08-23. Some of the text comes from the Maastricht '18 rules.
+</details><br/>
 
 <h2>I. Creative</h2>
 
@@ -19,11 +23,6 @@ We wish for this game to be enjoyable for us who choose to partake. Secondarily,
 We strive to be clear, honest and fair towards each other about the game's nature, its purpose, its organisation, this constitution, and the social and temporal footprint of it and its sessions.
 
 Those who put time and effort into the game have a responsibility of upholding these principles. Those who take that responsibility have a right be heard if there is need to compromise between different participants' preferences.
-
-<details>
-  <summary>History and notes</summary>
-  The agenda was written around 2018-08-23. Some of the text comes from the Maastricht '18 rules.
-</details></br>
 
 [Next: Amendments](docs/amendments)
 

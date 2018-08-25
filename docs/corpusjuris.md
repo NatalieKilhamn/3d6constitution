@@ -1,3 +1,7 @@
+[Previous: Amendments](amendments)
+
+[Back to index](../index)
+
 <h1>Corpus juris</h1>
 {% include_relative glossary.md %}
 
@@ -30,3 +34,5 @@
 {% include_relative corpus/14_equipment_encumbrance.md %}
 
 {% include_relative corpus/15_food_water_exhaustion.md %}
+
+[Back to index](../index)

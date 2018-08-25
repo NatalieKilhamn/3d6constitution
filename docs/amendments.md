@@ -177,6 +177,6 @@ Our proposed combat round represents approximately one minute within the fiction
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-</details>
+</details></br>
 
 [Next: corpus juris](corpusjuris)

@@ -8,8 +8,7 @@
 <details>
   <summary>Click for history and notes</summary>
   This is known as "superior initiative".
-</details>
-
+</details></br>
 
 5.4 A character can take an initiative penalty to declare a reaction to another action.  The more natural the reaction, the smaller the penalty. Some examples: take -2 initiative to defend with a shield, shout a warning, or draw a weapon; take -5 to order subordinates to attack, attack an enemy who lets their guard down, or defend with a shield after the attack roll has been made; take -10 to make a riposte (for a character trained in such) or attack on a clear order when fighting inside an established chain of command.
 

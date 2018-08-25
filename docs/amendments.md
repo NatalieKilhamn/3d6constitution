@@ -16,6 +16,29 @@ WHEREAS both hierarchies and the use of a chairman can ease quick decision-makin
 
 WE PROPOSE that we defer to more senior participants (with regards to the game), or even lend the most senior the role of chairman, leading the discussion and deciding between equally-supported options.
 
+<details><summary markdown="span">Click for history and notes 1</summary>
+
+```swift
+public var markdown: String
+```
+
+> Generated Markdown output
+
+ Link and block quote 1: [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+> * When uncertain how best to proceed, refer to the Point of play and Basic context, above.
+>   * The ref may lead the conversation, but everyone has an equal voice. Pay special heed to anyone with experience in this game, and give special skepticism to experience from other games with different agendas.
+> * \[...\]
+> * Rules are there to connect the Point of play to the situation of the moment. Always do whatever best serves that purpose, even if it means breaking, changing, or ignoring a rule.
+>   * If any of your adjustments wind up being applied more than once, congrats, you've added a rule!
+
+  Link and block quote 2: [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+  ```
+  * Established fiction is an absolute constraint. If either the imagined world or a rule must give, the rule gives.
+    * This does not mean the ref's first word is always law. Refs are fallible and the players' judgment of the fiction matters too.
+  ```
+
+</details>
+
 <details>
   <summary>Click for history and notes</summary>
   
@@ -27,7 +50,7 @@ WE PROPOSE that we defer to more senior participants (with regards to the game),
 > * Rules are there to connect the Point of play to the situation of the moment. Always do whatever best serves that purpose, even if it means breaking, changing, or ignoring a rule.
 >   * If any of your adjustments wind up being applied more than once, congrats, you've added a rule!
   </p>
-</details></br>
+</details>
 
 <h2>II. On the referee</h2>
 WHEREAS it is nontrivial to combine the aesthetic preferences and creative contributions of all the players with all other constraints on the fantasy world, and

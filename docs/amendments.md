@@ -19,7 +19,7 @@ WE PROPOSE that we defer to more senior participants (with regards to the game),
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>II. On the referee</h2>
 WHEREAS it is nontrivial to combine the aesthetic preferences and creative contributions of all the players with all other constraints on the fantasy world, and
@@ -35,7 +35,7 @@ WE PROPOSE that one participant (or possibly more than one) shall take on a spec
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>III. On established fiction</h2>
 WHEREAS, while the challenges we apply ourselves to take place in a fictional world, revising that fiction to solve the characters' problems would be an exceptionally cheap experience,
@@ -47,7 +47,7 @@ FURTHERMORE, we argue that while not part of the collaboratively established fic
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>IV. On the limits of established fiction</h2>
 WHEREAS there are other considerations than the satisfying resolution of challenges, and
@@ -63,7 +63,7 @@ FINALLY, we acknowledge that even with the help of a referee tracking informatio
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>V. On player characters</h2>
 WHEREAS one player presumably finds it easier to act the part of a single character, and
@@ -87,7 +87,7 @@ WE PROPOSE that we strive to keep the player characters friends or allies with e
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>VI. On character abilities</h2>
 WHEREAS the established properties of the characters within the fiction will quickly become important for the resolution of challenges, and
@@ -117,7 +117,7 @@ WE PROPOSE the open die roll as a basic building block of our resolution procedu
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>VIII. On rewards and progression</h2>
 WHEREAS variation is a useful tool for engagement, and
@@ -139,7 +139,7 @@ WE PROPOSE that it be interpreted as a narrative conceit: characters who have li
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>IX. On the content of challenges</h2>
 WHEREAS a common yardstick for all character promotes fairness, and
@@ -155,7 +155,7 @@ FURTHERMORE, we propose that our fantasy world have a fairly stable currency kno
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>X. On combat</h2>
 WHEREAS combat by its nature has high stakes and quick decision-making, and
@@ -177,6 +177,6 @@ Our proposed combat round represents approximately one minute within the fiction
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 [Next: corpus juris](https://jonatankilhamn.github.io/3d6constitution/docs/corpusjuris)

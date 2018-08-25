@@ -4,8 +4,10 @@
 
 5.2. In addition to the one action allowed at their initiative count, a character can use their initiative score for extra actions or reactions.
 
-5.3 The character who starts the round with the highest initiative can take -10 to their score after their turn; then they get to take another turn at their new value. <details><summary>Click for history and notes</summary>
-This is known as "superiour initiative".
+5.3 The character who starts the round with the highest initiative can take -10 to their score after their turn; then they get to take another turn at their new value.
+<details>
+  <summary>Click for history and notes</summary>
+  This is known as "superior initiative".
 </details>
 
 

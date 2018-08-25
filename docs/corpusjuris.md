@@ -25,7 +25,7 @@
 
 {% include_relative corpus/12_magic.md %}
 
-{% include_relative corpus/13_exploration_trave.md %}
+{% include_relative corpus/13_exploration_travel.md %}
 
 {% include_relative corpus/14_equipment_encumbrance.md %}
 

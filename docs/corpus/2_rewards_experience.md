@@ -16,3 +16,7 @@
 2.8 In some contexts, it makes sense to negotiate a different measure of success than treasure; also known as "quest XP". This should be done when something other than money takes on a similar role in that it motivating all characters goes almost without saying. Possible examples might include saving a largely innocent populace from mortal peril, at a rate of 10 XP per person saved.
 
 2.9 Unless otherwise noted, a character gains their second level at 1500 XP, and each subsequent level at double the XP total at which they gained their previous level (so at 3000, 6000, 12000 etc.). No XP is lost by gaining a level; the total just keeps going up.
+<details><summary markdown="span">Click for history and notes</summary>
+
+In Maastricht '18, these XP limits were thought too harsh, after six sessions in Stonehell and almost no treasure to show for it. We switched to using limits 1/10 as large, and the very next session the players found 9000sp. The limits given above seem to be reasonable for a longer campaign. In a short, limited-time campaign, we recommend that the group decide together how much level progression is desired, and adjust the limits downwards accordingly.
+</details><br/>

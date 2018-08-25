@@ -103,7 +103,7 @@ WE PROPOSE that each player character has a set of numerical scores representing
 <details>
   <summary>Click for history and notes</summary>
   This amendment was written around 2018-08-23.
-<details>
+</details>
 
 <h2>VII. On resolving uncertainty</h2>
 WHEREAS we will surely face uncertainty in our sessions; both uncertainty because the established fiction is vague or abstract and uncertainty because our knowledge of the real world is uncertain; and

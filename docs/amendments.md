@@ -24,7 +24,7 @@ This amendment was written around 2018-08-23. It can be seen as a version of tha
 > * \[...\]
 > * Rules are there to connect the Point of play to the situation of the moment. Always do whatever best serves that purpose, even if it means breaking, changing, or ignoring a rule.
 >   * If any of your adjustments wind up being applied more than once, congrats, you've added a rule!
-</details>
+</details><br/>
 
 <h2>II. On the referee</h2>
 WHEREAS it is nontrivial to combine the aesthetic preferences and creative contributions of all the players with all other constraints on the fantasy world, and
@@ -40,7 +40,7 @@ WE PROPOSE that one participant (or possibly more than one) take on a special ro
 <details><summary markdown="span">Click for history and notes</summary>
  
 This amendment was written around 2018-08-23. The referee traditionally holds a lot of power, and this amendments aims to make clear that each of those powers comes from a specific responsibility; any power not implied by any such responsibility is not necessary for the referee to have.
-</details></br>
+</details><br/>
 
 <h2>III. On established fiction</h2>
 WHEREAS, while the challenges we apply ourselves to take place in a fictional world, revising that fiction to solve the characters' problems would be an exceptionally cheap experience,
@@ -54,7 +54,7 @@ FURTHERMORE, we argue that while not part of the collaboratively established fic
 This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
 > * Established fiction is an absolute constraint. If either the imagined world or a rule must give, the rule gives.
 >   * This does not mean the ref's first word is always law. Refs are fallible and the players' judgment of the fiction matters too.
-</details>
+</details><br/>
 
 <h2>IV. On the limits of established fiction</h2>
 WHEREAS there are other considerations than the satisfying resolution of challenges, and
@@ -71,7 +71,7 @@ FINALLY, we acknowledge that even with the help of a referee tracking informatio
 
 This amendment was written around 2018-08-23. Its first proposition owes to [Eero Tuovinen on character motivations](http://www.story-games.com/forums/discussion/comment/428154/#Comment_428154). A key quote:
 > When PCs need to act in an unrealistic way for play to happen, let them, and perhaps fabulate post-facto justifications for why they're acting that way.
-</details>
+</details><br/>
 
 <h2>V. On player characters</h2>
 WHEREAS one player presumably finds it easier to act the part of a single character, and
@@ -103,7 +103,7 @@ This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen 
 >  * Adventurers are always focused on adventuring (you can imagine their lives beyond that, but they won't show up in play).
 >  * When Adventurers try to do certain things, their capabilities will be applied to dice rolls to determine success.
 >  * The more that Adventurers achieve, the more capable they become, and the more grandiose their feasible challenge options become.
-</details>
+</details><br/>
 
 <h2>VI. On character abilities</h2>
 WHEREAS the established properties of the characters within the fiction will quickly become important for the resolution of challenges, and
@@ -119,7 +119,7 @@ WE PROPOSE that each player character has a set of numerical scores representing
 <details><summary markdown="span">Click for history and notes</summary>
 
 This amendment was written around 2018-08-23.
-</details>
+</details><br/>
 
 <h2>VII. On resolving uncertainty</h2>
 
@@ -134,7 +134,7 @@ WE PROPOSE the open die roll as a basic building block of our resolution procedu
 <details><summary markdown="span">Click for history and notes</summary>
   
 This amendment was written around 2018-08-23.
-</details>
+</details><br/>
 
 <h2>VIII. On rewards and progression</h2>
 WHEREAS variation is a useful tool for engagement, and
@@ -156,7 +156,7 @@ WE PROPOSE that it be interpreted as a narrative conceit: characters who have li
 <details><summary markdown="span">Click for history and notes</summary>
 
 This amendment was written around 2018-08-23.
-</details>
+</details><br/>
 
 <h2>IX. On the content of challenges</h2>
 WHEREAS a common yardstick for all character promotes fairness, and
@@ -172,7 +172,7 @@ FURTHERMORE, we propose that our fantasy world have a fairly stable currency kno
 <details><summary markdown="span">Click for history and notes</summary>
 
 This amendment was written around 2018-08-23.
-</details>
+</details><br/>
 
 <h2>X. On combat</h2>
 WHEREAS combat by its nature has high stakes and quick decision-making, and
@@ -195,7 +195,7 @@ Our proposed combat round represents approximately one minute within the fiction
 
 This amendment was written around 2018-08-23. The idea of hit points as being partly narrative has a long history, but the direct influence here is [Eero Tuovinen on combat](http://www.story-games.com/forums/discussion/comment/425370/#Comment_425370):
 > Hit points are a super-power that is justified by constructive genre expectations, the Hero simply doesn't get killed suddenly in the types of genres mentioned here. Once you understand and accept this, you no longer have difficulty with the mere fact that hitpoints protect high-level characters - they play by their own rules, and the most fundamental of those rules is that they are only occasionally in serious danger from swordsplay.
-</details>
+</details><br/>
 
 [Next: corpus juris](corpusjuris)
 

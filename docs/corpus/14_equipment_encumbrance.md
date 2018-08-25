@@ -35,7 +35,7 @@
 Maastricht '18 used the LotFP price lists.
 </details><br/>
 
-14.15 The general classes of armour are leather/hide (0 stones, 25sp), half-chain (1 stone, 50sp), half-plate (2 stone, 500sp), full chain (3 stone, 500sp) and full plate (4 stone, 1000sp).
+14.15 The general classes of armour are leather/hide (0 stones, AC 22, 25sp), half-chain (1 stone, 24 AC, 50sp, ), full chain (3 stone, 26 AC, 100sp), half-plate (2 stone, 28 AC, 500sp) and full plate (4 stone, 30 AC, 1000sp).
 <details><summary markdown="span">Click for history and notes</summary>
 
 Prices are based on those from _[Lamentations of the Flame Princess](https://paulgorman.org/roleplaying/dnd/misc/LotFP_Rules_and_Magic_Free_Version_without_Art.pdf)_. In Maastricht '18 we had the encumbrance values of full chain and half-plate switched around, but some players remarked that while chainmail is effectively carried on one's shoulders, plate mail is strapped on in a way that distributes the load.

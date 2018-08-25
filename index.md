@@ -8,6 +8,7 @@ The agenda can be realised in many different ways. The most important consequenc
 
 The game is made concrete enough to play by the [Corpus Juris](docs/corpusjuris), the body of law. Everything in there is secondary to the agenda and the amendments. These rules are intended to change and expand as we work our way towards the best way to realise the agenda.
 
-Thanks to:
+<h3>Acknowledgements</h3>
+My thanks go out to:
 * Eero Tuovinen, Sandra "2097" and David Berg, from story-games.com
-* Andreas "Andy" Persson, Gustav Vidhög, Hampus "Tejp" Lane, Sigrid Neld, Elona Wallengren, Oskar Larsson--for the experiment of the summer of '18
+* Andreas "Andy" Persson, Gustav Vidhög, Hampus "Tejp" Lane, Sigrid Neld, Elona Wallengren, Oskar Larsson, Dinah Borenstein and Henrik Rostedt for the experiment that was Maastricht '18

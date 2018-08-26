@@ -84,15 +84,15 @@ WE PROPOSE that each player should play a single character at a time, and that t
 
 WHEREAS the fates of fictional characters cannot be completely foreseen or controlled—in fact we would not have it be—
 
-WE PROPOSE that we should strive to regularly re-evaluate whether each player currently has a character who is enjoyably involved in the session's play. This leads us to consider situations such as characters joining, leaving or dying partway through the session, and how we can work to ensure the players can stay involved throughout.
+WE PROPOSE that we should strive to regularly re-evaluate whether each player currently has a character who is enjoyably involved in the session's play. This leads us to consider situations such as characters joining, leaving or dying partway through the session, and how we can work to ensure the players can stay involved throughout. Even with each player playing only one at a time, a lot can be gained by allowing players a stable of characters to choose from in a given session.
 
 WHEREAS the player character can and will be an investment for the player,
 
 WE PROPOSE that the decision to take a character out of play, unless clearly forced by the established fiction, should rest upon the player of that character.
 
-WHEREAS an intra-party conflict with high enough stakes could force a player to lose, abandon, or pass over a character they otherwise would have liked to play that session, in a manner that is rife for social friction between players,
+WHEREAS an intra-party conflict with high enough stakes could force a player to lose, abandon, or pass over a character in a manner that is rife for social friction between players,
 
-WE PROPOSE that we strive to keep the player characters friends or allies with each other, even when this requires unlikely assumptions about the fiction.
+WE PROPOSE that we choose which characters and situations to play such that the characters are mostly friends or allies, tackling challenges together; only playing out intra-party conflicts when we agree that this would be an enjoyable session and an enjoyable game.
 
 <details><summary markdown="span">Click for history and notes</summary>
  

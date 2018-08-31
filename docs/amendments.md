@@ -185,7 +185,7 @@ WHEREAS combat also has further potential for interesting drama, and
 
 WHEREAS the gaming tradition has a long history of a focus (or perceived focus) on combat,
 
-WE ACKNOWLEDGE that the rules we use to resolve combat situations will likely grow to be among our most complex ones, and that they a solid foundation and a lot of thought; furthermore,
+WE ACKNOWLEDGE that the rules we use to resolve combat situations will likely grow to be among our most complex ones, and that they require a solid foundation and a lot of thought; furthermore,
 
 WE PROPOSE as that foundation the use of hit points and the combat round.
 

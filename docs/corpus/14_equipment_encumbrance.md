@@ -6,6 +6,12 @@
 
 14.3 For purposes of encumbrance, equipment is measured in _stones_. A stone is technically an old unit of weight, equal to 14 lb or about 6.3 kg. In this game, that value is used as a guideline, but 1 stone is also a more abstract measure of how encumbered a character is by their equipment. Sometimes it matters more whether the stuff can be strapped to a backpack, for instance, than its exact weight. The guidelines for stones can be bartered around somewhat.
 
+<details><summary markdown="span">Click for history and notes</summary>
+
+These encumbrance rules (14.3 through 14.13) are directly lifted from this character sheet, intended for use with DnD 5e, by Sandra "2097": https://drive.google.com/file/d/1Ly-2ps0cPdMCumpp7apOh8aIneWcuwc_/view?usp=sharing (The link is a re-host; I believe the original is available somewhere at Sandra's page idiomdrottning.org but I have lost the link.)
+
+</details><br/>
+
 14.4 Clothes and light armour count as 0 stones when worn. A chainmail shirt is 1 stone, full chainmail armour 3 stone, and full plate armour 4 stone.
 
 14.5 A backpack is worth 1 stone when filled with up to 15 small things, 2 stone when filled with up to 30.

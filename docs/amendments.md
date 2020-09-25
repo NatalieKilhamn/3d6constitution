@@ -110,7 +110,7 @@ This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen 
 <h2>VI. On character abilities</h2>
 WHEREAS the established properties of the characters within the fiction will quickly become important for the resolution of challenges, and
 
-WHEREAS we are interested in challenges were must "play the hand we are given",
+WHEREAS we are interested in challenges where we must "play the hand we are given",
 
 WE PROPOSE that the relevant properties and abilities of the player characters are written down, and furthermore that some (but not all) of these abilities are outside the players' control.
 
@@ -143,7 +143,7 @@ WHEREAS variation is a useful tool for engagement, and
 
 WHEREAS improvement is a particularly enjoyable form of variation, and
 
-WHEREAS we believe that rewards can incentivise those of our behaviours we wish to encourage, and
+WHEREAS we believe that rewards can be used to incentivise those of our behaviours we wish to encourage, and
 
 WHEREAS surviving and thriving through adventurous challenges could reasonably cause a character to learn and improve, and
 
@@ -169,7 +169,7 @@ WHEREAS a lawless frontier of a lawful society invites a wide variety of valid s
 
 WE PROPOSE that our standard type of challenge should be this: our characters explore adventurous locations outside the boundaries or jurisdiction of their civilization, and their success is measured by the amount of treasure they manage to bring back with them.
 
-FURTHERMORE, we propose that our fantasy world have a fairly stable currency known as the silver piece, and that the rewards are measured in experience points, where one experience point is awarded for each silver piece salvaged.
+FURTHERMORE, we propose that our fantasy world have a fairly stable currency known as the silver piece, and that the rewards are measured in experience points, where one experience point is awarded for each silver piece's worth of treasure salvaged.
 
 <details><summary markdown="span">Click for history and notes</summary>
 
@@ -196,7 +196,7 @@ Our proposed combat round represents approximately one minute within the fiction
 <details><summary markdown="span">Click for history and notes</summary>
 
 This amendment was written around 2018-08-23. The idea of hit points as being partly narrative has a long history, but the direct influence here is [Eero Tuovinen on combat](http://www.story-games.com/forums/discussion/comment/425370/#Comment_425370):
-> Hit points are a super-power that is justified by constructive genre expectations, the Hero simply doesn't get killed suddenly in the types of genres mentioned here. Once you understand and accept this, you no longer have difficulty with the mere fact that hitpoints protect high-level characters - they play by their own rules, and the most fundamental of those rules is that they are only occasionally in serious danger from swordsplay.
+> Hit points are a super-power that is justified by constructive genre expectations, the Hero simply doesn't get killed suddenly in the types of genres mentioned here. Once you understand and accept this, you no longer have difficulty with the mere fact that hitpoints protect high-level characters - they play by their own rules, and the most fundamental of those rules is that they are only occasionally in serious danger from swordsplay (sic).
 </details><br/>
 
 [Next: corpus juris](corpusjuris)

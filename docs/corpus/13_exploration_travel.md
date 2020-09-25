@@ -10,7 +10,7 @@
 
 13.4 Rain, snow or high winds reduce distance travelled to 1/2 the going rate, and full-on storm conditions reduce it to 1/3.
 
-13.5 Depending on the locale, the referee will roll encounter checks with a given frequency and probability. The typical setup for overland travel is 1/3 probability of an encounter, rolled once per day plus once per 6 miles travelled. The typical setup for dungeon exploration is 1/6 probability, rolled either once per hour (more active dungeons) or once per turn (quieter dungeons).
+13.5 Depending on the locale, the referee will roll encounter checks with a given frequency and probability. The typical setup for overland travel is 1/3 probability of an encounter, rolled once per day plus once per 6 miles travelled. The typical setup for dungeon exploration is 1/6 probability, rolled either once per hour (quieter dungeons) or once per turn (more active dungeons).
 
 13.6 Hunting animals for food in the wilderness requires a strength check and a ranged weapon, or alternatively a knowledge check if traps are used, modified by the hunting skill, against DC 20.
 

@@ -14,9 +14,9 @@ WE PROPOSE that additional principles shall be observed regarding time spent in 
 
 FROM THIS, and
 
-WHEREAS both hierarchies and the use of a chairman can ease quick decision-making,
+WHEREAS both hierarchies and the use of a chairperson can ease quick decision-making,
 
-WE PROPOSE that we defer to more senior participants (with regards to the game), or even lend the most senior the role of chairman, leading the discussion and deciding between equally-supported options.
+WE PROPOSE that we defer to more senior participants (with regards to the game), or even lend the most senior the role of chair, leading the discussion and deciding between equally-supported options.
 
 <details><summary markdown="span">Click for history and notes</summary>
  

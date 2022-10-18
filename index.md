@@ -11,4 +11,4 @@ The game is made concrete enough to play by the [corpus juris](docs/corpusjuris)
 <h3>Acknowledgements</h3>
 My thanks go out to:
 * Eero Tuovinen, Sandra "2097" and David Berg, from story-games.com
-* Andreas "Andy" Persson, Gustav Vidhög, Hampus "Tejp" Lane, Sigrid Neld, Elona Wallengren, Oskar Larsson, Dinah Borenstein and Henrik Rostedt for the experiment that was Maastricht '18
+* Andreas "Andy" Persson, Gustav Vidhög, Felicia "Tejp" Lane, Sigrid Neld, Elona Wallengren, Oskar Larsson, Dinah Borenstein and Henrik Rostedt for the experiment that was Maastricht '18

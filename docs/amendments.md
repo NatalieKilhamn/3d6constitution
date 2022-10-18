@@ -20,7 +20,7 @@ WE PROPOSE that we defer to more senior participants (with regards to the game),
 
 <details><summary markdown="span">Click for history and notes</summary>
  
-This amendment was written around 2018-08-23. It can be seen as a version of that OSR mantra: “rulings, not rules”. It also owes to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+This amendment was written around 2018-08-23. It can be seen as a version of that OSR mantra: “rulings, not rules”. It also owes to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649) ([mirrored](https://rickard80.github.io/storygames/?19234)):
 > * When uncertain how best to proceed, refer to the Point of play and Basic context, above.
 >   * The ref may lead the conversation, but everyone has an equal voice. Pay special heed to anyone with experience in this game, and give special skepticism to experience from other games with different agendas.
 > * \[...\]
@@ -53,7 +53,7 @@ FURTHERMORE, we argue that while not part of the collaboratively established fic
 
 <details><summary markdown="span">Click for history and notes</summary>
  
-This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649) ([mirrored](https://rickard80.github.io/storygames/?19234)):
 > * Established fiction is an absolute constraint. If either the imagined world or a rule must give, the rule gives.
 >   * This does not mean the ref's first word is always law. Refs are fallible and the players' judgment of the fiction matters too.
 </details><br/>
@@ -71,7 +71,7 @@ FINALLY, we acknowledge that even with the help of a referee tracking informatio
 
 <details><summary markdown="span">Click for history and notes</summary>
 
-This amendment was written around 2018-08-23. Its first proposition owes to [Eero Tuovinen on character motivations](http://www.story-games.com/forums/discussion/comment/428154/#Comment_428154). A key quote:
+This amendment was written around 2018-08-23. Its first proposition owes to [Eero Tuovinen on character motivations](http://www.story-games.com/forums/discussion/comment/428154/#Comment_428154) ([mirrored](https://rickard80.github.io/storygames/?19208)). A key quote:
 > When PCs need to act in an unrealistic way for play to happen, let them, and perhaps fabulate post-facto justifications for why they're acting that way.
 </details><br/>
 
@@ -96,7 +96,7 @@ WE PROPOSE that we choose which characters and situations to play such that the 
 
 <details><summary markdown="span">Click for history and notes</summary>
  
-This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649) ([mirrored](https://rickard80.github.io/storygames/?19234)):
 >  * The players are a team.
 >  * The player's toolkit includes:
 >    * a single Adventurer character with many game-defined capabilities, different from the other players' characters
@@ -195,7 +195,7 @@ Our proposed combat round represents approximately one minute within the fiction
 
 <details><summary markdown="span">Click for history and notes</summary>
 
-This amendment was written around 2018-08-23. The idea of hit points as being partly narrative has a long history, but the direct influence here is [Eero Tuovinen on combat](http://www.story-games.com/forums/discussion/comment/425370/#Comment_425370):
+This amendment was written around 2018-08-23. The idea of hit points as being partly narrative has a long history, but the direct influence here is [Eero Tuovinen on combat](http://www.story-games.com/forums/discussion/comment/425370/#Comment_425370) ([mirrored](https://rickard80.github.io/storygames/?19234)):
 > Hit points are a super-power that is justified by constructive genre expectations, the Hero simply doesn't get killed suddenly in the types of genres mentioned here. Once you understand and accept this, you no longer have difficulty with the mere fact that hitpoints protect high-level characters - they play by their own rules, and the most fundamental of those rules is that they are only occasionally in serious danger from swordsplay (sic).
 </details><br/>
 

@@ -75,8 +75,8 @@ The specific effect of driving one's foe back was used extensively in the fight 
 
 5.21 When making a ranged attack against a target who is in mêlée with another character, there is a risk that the attack hits the wrong target. If the characters have a clear facing—for example one of them is defending an exit, keeping it behind them—then firing from straight behind one of them has a 1/10 chance of hitting the one further away and a 9/10 chance of hitting the one closer. When firing into the same situation from the side, there is a 6/10 chance of hitting one's chosen target. By spending a full round aiming, the probability of hitting one's chosen target is increased a maximum of 2/10.
 
-5.22 When making a successful ranged attack, the player can choose to have this attack roll count without letting an arrow fly; they record the successful attack but don't roll any damage. They can choose to roll this damage and add it at any later point in time when their target takes damage. However, if they lose track of their target all such "stored" ranged attacks are lost.
+5.22 When making a successful ranged attack, the player can choose to simply describe their action as taking aim. The attack reduces HP as usual. If and when that enemy makes an injury save, due to that attack roll or something else later, the referee can decide that the shooter has taken their shot.
 <details><summary markdown="span">Click for history and notes</summary>
 
-Adapted from the [Arrow Threat](https://idiomdrottning.org/arrow_threat/) rule by Sandra "2097". The above take has less focus on the cinematic idea that several different ways of describing the action work equally fine as long as the mechanical effect makes sense, and more on the idea that taking down an enemy with one carefully aimed projectile can be both cooler and more realistic than firing loads and loads of arrows.
+Adapted from these [aiming rules]([https://idiomdrottning.org/arrow_threat/](https://idiomdrottning.org/aiming)) by Sandra "2097".
 </details><br/>

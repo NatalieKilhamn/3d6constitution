@@ -13,7 +13,7 @@
 
 2.7 In addition to the experience awarded for treasure, we also award a small amount for encountering and overcoming foes. This amount is 10 XP per hit die (1d6 HP, or closest equivalent) of the foes.
 
-2.8 In some contexts, it makes sense to negotiate a different measure of success than treasure; also known as "quest XP". This should be done when something other than money takes on a similar role in that it motivating all characters goes almost without saying. Possible examples might include saving a largely innocent populace from mortal peril, at a rate of 10 XP per person saved.
+2.8 In some contexts, it makes sense to negotiate a different measure of success than treasure; also known as "quest XP". This should be done when something other than money takes on a similar role in that it motivates all characters. A possible example is saving a largely innocent populace from mortal peril, at a rate of 10 XP per person saved.
 
 2.9 Unless otherwise noted, a character gains their second level at 1500 XP, and each subsequent level at double the XP total at which they gained their previous level (so at 3000, 6000, 12000 etc.). No XP is lost by gaining a level; the total just keeps going up.
 <details><summary markdown="span">Click for history and notes</summary>

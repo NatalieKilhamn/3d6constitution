@@ -12,12 +12,16 @@ This is known as "superior initiative".
 
 5.4 A character can take an initiative penalty to declare a reaction to another action.  The more natural the reaction, the smaller the penalty. Some examples: take -2 initiative to defend with a shield, shout a warning, or draw a weapon; take -5 to order subordinates to attack, attack an enemy who lets their guard down, or defend with a shield after the attack roll has been made; take -10 to make a riposte (for a character trained in such) or attack on a clear order when fighting inside an established chain of command.
 
+<details><summary markdown="span">Click for history and notes</summary>
+In the Overgrown Cathedral, Matte paid -2 initiative to roll a wits check to see if any more enemies were approaching. If this were done between rounds, it would have been free (see 5.5)
+</details><br/>
+
 5.5 At the end of the round, the current bout of mêlée ends, with all combatants disengaging: circling each other, catching their breath, surveying the other side. Characters can perform actions that fit within the brief respite: knowledge checks, talking, perhaps even producing items from their packs or drinking potions. Physical actions taken between rounds generally cost initiative points. The next round starts as soon as either side demands it.
 
 5.6 A character can try to re-orient themselves between rounds, which causes them to re-roll their initiative. However, they don't get to take their usual turn in the upcoming round; only reactions.
 <details><summary markdown="span">Click for history and notes</summary>
 
-In Maastricht '18, players could decide on their turn to spend their action to re-orient, despite the written rules we used having essentially the above reading. I (Jonatan) propose the rule as written is given an honest try before we decide which way to go.
+In Maastricht '18, players could decide on their turn to spend their action to re-orient, despite the written rules we used having essentially the above reading. I (Natalie) propose the rule as written is given an honest try before we decide which way to go.
 </details><br/>
 
 5.7 Casting a memorised spell must be declared between rounds, and is considered to take effect on the character’s own turn in the new round. Other characters can notice that the magician is trying to cast a spell from the start of the round, if for example they want to interrupt the casting.
@@ -69,11 +73,17 @@ In Maastricht '18, players could decide on their turn to spend their action to r
 <details><summary markdown="span">Click for history and notes</summary>
 
 The specific effect of driving one's foe back was used extensively in the fight against the giant pelicans in the [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html). One extra success let the character drive a pelican slightly backwards; two successes were required to drive them out a window. Once outside, only one pelican could attack in through the window, forcing another to hover behind it without acting, while two humans could attack the one sticking its head in.
+
+In the Overgrown Cathedral, a dire monkey was fighting Scout and Anka attacked, scoring an extra success. This drove the monkey back just enough that Anka could position themselves between the monkey and Scout—the monkey would have had to maneauver somehow to keep attacking Scout.
 </details><br/>
 
 5.20 Four extra degrees of success on an attack roll (i.e. beating the AC by 20) can be used to score a direct hit, bypassing the opponents hit points.
 
-5.21 When making a ranged attack against a target who is in mêlée with another character, there is a risk that the attack hits the wrong target. If the characters have a clear facing—for example one of them is defending an exit, keeping it behind them—then firing from straight behind one of them has a 1/10 chance of hitting the one further away and a 9/10 chance of hitting the one closer. When firing into the same situation from the side, there is a 6/10 chance of hitting one's chosen target. By spending a full round aiming, the probability of hitting one's chosen target is increased a maximum of 2/10.
+5.21 When making a ranged attack against a target who is in mêlée with another character, there is a risk that the attack hits the wrong target. If the characters have a clear facing—for example one of them is defending an exit, keeping it behind them—then firing from straight behind one of them has a 1/10 chance of hitting the one further away and a 9/10 chance of hitting the one closer. When firing into the same situation from the side, there is a 6/10 chance of hitting one's chosen target. By spending a full round aiming, the probability of hitting one's chosen target is increased a maximum of 2/10. Note that combatants in mêlée break apart at the end of each combat round, and only re-engage when either of them uses their turn.
+
+<details><summary markdown="span">Click for history and notes</summary>
+In the Overgrown Cathedral, firing into mêlée from straight overhead was judged to be the same as shooting from the side. (Both were wrongly given as 5/10, corrected afterwards.)
+</details><br/>
 
 5.22 When making a successful ranged attack, the player can choose to simply describe their action as taking aim. The attack reduces HP as usual. If and when that enemy makes an injury save, due to that attack roll or something else later, the referee can decide that the shooter has taken their shot.
 <details><summary markdown="span">Click for history and notes</summary>

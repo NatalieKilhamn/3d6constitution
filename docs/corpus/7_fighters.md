@@ -3,8 +3,9 @@
 7.1 Fighters gain a bonus to all combat-related checks equal to their level. (Among the combat-related checks we count the initiative roll, all attack and defence rolls, and injury saves.)
 
 <details><summary markdown="span">Click for history and notes</summary>
-
 In Maastricht '18 we only had the fighter bonus apply to initiative, attack and defense rolls.
+
+In Dungeon Crawl '22 the rule was "all combat-related d20 rolls", which ought to include injury saves as well.
 </details><br/>
 
 

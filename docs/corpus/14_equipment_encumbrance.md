@@ -26,6 +26,8 @@ These encumbrance rules (14.3 through 14.13) are directly lifted from this chara
 <details><summary markdown="span">Click for history and notes</summary>
 
 Sandra "2097" has an extensive [list of example item sizes](https://idiomdrottning.org/item-sizes)
+
+14.9.1–3 were previously 14.9–14.11.
 </details><br/>
 
 14.9.1 Some examples of a small-sized items in a pack: a small book or scroll, a bundle of candles, an item of clothing, a torch, an object weighing about 1 lb.

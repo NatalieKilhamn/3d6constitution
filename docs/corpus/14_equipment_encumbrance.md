@@ -8,11 +8,11 @@
 
 <details><summary markdown="span">Click for history and notes</summary>
 
-These encumbrance rules (14.3 through 14.13) are directly lifted from this character sheet, intended for use with DnD 5e, by Sandra "2097": https://drive.google.com/file/d/1Ly-2ps0cPdMCumpp7apOh8aIneWcuwc_/view?usp=sharing (The link is a re-host; I believe the original is available somewhere at Sandra's page idiomdrottning.org but I have lost the link.)
+These encumbrance rules (14.3 through 14.13) are directly lifted from this character sheet, intended for use with DnD 5e, by Sandra "2097": [encumbrance sheet](https://drive.google.com/file/d/1Ly-2ps0cPdMCumpp7apOh8aIneWcuwc_/view?usp=sharing) (The link is a re-host; I believe the original is available somewhere at Sandra's page idiomdrottning.org but I have lost the link.)
 
 </details><br/>
 
-14.4 Clothes and light armour count as 0 stones when worn. A chainmail shirt is 1 stone, full chainmail armour 3 stone, and full plate armour 4 stone.
+14.4 Clothes and light armour count as 0 stones when worn. Heavier armour is worth one or more stones, see 14.15.
 
 14.5 A backpack is worth 1 stone when filled with up to 15 small things, 2 stone when filled with up to 30.
 
@@ -22,20 +22,21 @@ These encumbrance rules (14.3 through 14.13) are directly lifted from this chara
 
 14.8 Big things can be carried by strapping them outside the backpack. This counts for stones as follows: 1 big thing: 1 stone; 2–3 big things: 2 stones, 4–5 big things: 3 stones.
 
-14.9 Some examples of a small-sized items in a pack: a small book or scroll, a bundle of candles, an item of clothing, a torch, an object weighing about 1 lb.
-
-14.10 Some examples of medium-sized items: a bow and a quiver, a sword, a bundle of torches, a hammer and a crowbar, a pouch holding up to 5 small things, an object weighing about 5 lb. 
-
-14.11 Some examples of big things: a bedroll, a small light tent, 50' of rope, a 1-gallon waterskin (2 rations of water), an object weighing about 9 lb.
-
+14.9 Generally, 50 tiny things is worth 1 small thing, and 5 small things is worth 1 medium thing.
 <details><summary markdown="span">Click for history and notes</summary>
 
 Sandra "2097" has an extensive [list of example item sizes](https://idiomdrottning.org/item-sizes)
 </details><br/>
 
+14.9.1 Some examples of a small-sized items in a pack: a small book or scroll, a bundle of candles, an item of clothing, a torch, an object weighing about 1 lb.
+
+14.9.2 Some examples of medium-sized items: a bow and a quiver, a sword, a bundle of torches, a hammer and a crowbar, a pouch holding up to 5 small things, an object weighing about 5 lb. 
+
+14.9.3 Some examples of big things: a bedroll, a small light tent, 50' of rope, a 1-gallon waterskin (2 rations of water), an object weighing about 9 lb.
+
 14.12 Large and heavy weapons like greatclubs, heavy crossbows and pikes can be strapped onto a backpack as big things, but if carried at the side, ready to use, they count for 1 stone by themselves.
 
-14.13 A small purse with 50 coins (or other tiny things, like gemstones) can be kept in a backpack as a small thing, and a larger pouch of up to 250 coins can be worn on one's person as a medium thing.
+14.13 A small purse with 50 coins (or other tiny things, like gemstones) can be kept in a backpack as a small thing. A larger pouch of up to 250 coins can be worn on one's person or packed as a medium thing. A sack of up to 1500 coins, carried, counts for 2 stone by itself. Very few, say about 10, tiny things carried in ones pockets counts for 0 stone. It is very difficult to carry lots of tiny things without putting them in some sort of container.
 
 14.13 The encumbrance level limits a character's athletic abilities. A character can carry their strength score / 3 (rounded to the nearest integer) in stones without being affected. Carrying more than that, they are encumbered: they travel overland at 2/3 of their usual speed, they take a disadvantage die to some athletic checks, and are outright unable to do others. This holds true for carrying up to the character's strength score x 2/3. If they carry one more stone than this, they cannot move faster than walking, they travel overland at 1/3 of their usual speed, and cannot perform almost any athletic tasks. Carrying even more than this is virtually impossible, but a character can drag a number of stones equal to their strength minus the amount they are carrying.
 

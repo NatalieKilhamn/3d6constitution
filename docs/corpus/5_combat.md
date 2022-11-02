@@ -50,18 +50,18 @@ It would seem to follow from this that such henchmen and NPC lackeys cannot take
 5.13 Monsters and NPCs may flee or give up based on a morale check. This check is made with 2d6, and a result equal to or under their morale score means they do not break. Morale checks are made when they are:
  * Surprised, but only on the first round after surprise
  * Faced by an obviously superior force
- * An ally is slain by magic
- * 25% of their group has fallen
- * 50% of their group has fallen
- * A companion is slain after more than 50% of the group has fallen
- * Their leader deserts or is slain
+ * Aware an ally is slain by magic
+ * Aware 25% of their group has fallen
+ * Aware 50% of their group has fallen
+ * Aware another companion is slain after more than 50% of the group has fallen
+ * Aware their leader deserts or is slain
  * Fighting a creature they cannot harm due to magical protections
  * Ordered to attempt a heroically dangerous task
  * Offered temptation (bribe, chance to steal, etc.)
  * Told to act as a rear guard, such as covering a fighting withdrawal
  * Directed to use up or use a charge from a personal powerful magical item
- * Given a chance to surrender (and have met the conditions for one other morale check)
  * Completely surrounded
+ * Given a chance to surrender (and have met the conditions for one other morale check)
 
 5.14 Regular attacks—both mêlée and ranged—are resolved through strength checks; the DC of an attack roll is the _armour class_ (AC) of the target.
 

@@ -13,15 +13,15 @@ This is known as "superior initiative".
 5.4 A character can take an initiative penalty to declare a reaction to another action.  The more natural the reaction, the smaller the penalty. Some examples: take -2 initiative to defend with a shield, shout a warning, or draw a weapon; take -5 to order subordinates to attack, attack an enemy who lets their guard down, or defend with a shield after the attack roll has been made; take -10 to make a riposte (for a character trained in such) or attack on a clear order when fighting inside an established chain of command.
 
 <details><summary markdown="span">Click for history and notes</summary>
-In the Overgrown Cathedral, Matte paid -2 initiative to roll a wits check to see if any more enemies were approaching. If this were done between rounds, it would have been free (see 5.5)
+In the Overgrown Cathedral, Spork paid -2 initiative to roll a wits check to see if any more enemies were approaching. If this were done between rounds, it would have been free (see 5.5)
 </details><br/>
 
 5.5 At the end of the round, the current bout of mêlée ends, with all combatants disengaging: circling each other, catching their breath, surveying the other side. Characters can perform actions that fit within the brief respite: knowledge checks, talking, perhaps even producing items from their packs or drinking potions. Physical actions taken between rounds generally cost initiative points. The next round starts as soon as either side demands it.
 
-5.6 A character can try to re-orient themselves between rounds, which causes them to re-roll their initiative. However, they don't get to take their usual turn in the upcoming round; only reactions.
+5.6 A character can try to re-orient themselves instead of taking any action, re-rolling their initiative. The new value is used if it is higher than the character's current initiative.
 <details><summary markdown="span">Click for history and notes</summary>
 
-In Maastricht '18, players could decide on their turn to spend their action to re-orient, despite the written rules we used having essentially the above reading. I (Natalie) propose the rule as written is given an honest try before we decide which way to go.
+Originally, the rule was that re-orienting was done between rounds, but the character could not take an action the following round (only reactions). In Maastricht '18, for whatever reason, we played with the current version anyway. It seems more intuitive that if you re-orient instead of taking your action, you make the choice that "costs your action" on that action, not beforehand. Also, with the old reading a character starting a fight at 0 due to surprise would always miss 2 whole rounds.
 </details><br/>
 
 5.7 Casting a memorised spell must be declared between rounds, and is considered to take effect on the character’s own turn in the new round. Other characters can notice that the magician is trying to cast a spell from the start of the round, if for example they want to interrupt the casting.
@@ -30,9 +30,13 @@ In Maastricht '18, players could decide on their turn to spend their action to r
 
 5.9 If a character’s initiative drops to 0, they are disoriented or flat-footed; they're uncertain about the quick events and momentarily distracted. This is a dangerous state: it allows opportunity attacks against the character (as if they dropped their guard) and disallows reactions. It also gives a penalty die to re-orienting rolls.
 
-5.10 When some of the characters have the advantage of surprise, the initial initiative can be skewed to represent this. A prepared attacker triggering their ambush at the opportune moment might get an advantage die to their initiative, or forgo the roll and use their wits+20. Conversely, completely flat-footed victims might get a penalty die or even have their initiative set to 0, which means that their first rounds are necessarily lost in re-orienting.
+5.10 When some of the characters have the advantage of surprise, the initial initiative can be skewed to represent this. A prepared attacker triggering their ambush at the opportune moment might get an advantage die to their initiative, or forgo the roll and use their wits+20. Conversely, completely flat-footed victims might get a penalty die or even have their initiative set to 0, which means that their first round is most likely lost to re-orienting.
 
 5.11 Henchmen and other NPC lackeys don’t roll an initiative of their own; instead, they always have an initiative score of 1. However, if they are part of a clear chain of command, they can be ordered to act by a superior: they will then act at the initiative value of the command instead of their own. If a character with a “proper” initiative roll follows a command, they do it in addition to their regular action, but in return pay initiative points like an ordinary reaction.
+
+<details><summary markdown="span">Click for history and notes</summary>
+It would seem to follow from this that such henchmen and NPC lackeys cannot take other reactions, such as defending with a shield. If this is true, perhaps they should get e.g. a +2 to AC from using a shield instead.
+</details><br/>
 
 5.12 Monsters and NPC have a morale score ranging from 2–12. The following guidelines are used to figure out morale scores:
  * 2: traitorous, pressured into service, forced into service but no risk of enforcement
@@ -74,7 +78,7 @@ In Maastricht '18, players could decide on their turn to spend their action to r
 
 The specific effect of driving one's foe back was used extensively in the fight against the giant pelicans in the [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html). One extra success let the character drive a pelican slightly backwards; two successes were required to drive them out a window. Once outside, only one pelican could attack in through the window, forcing another to hover behind it without acting, while two humans could attack the one sticking its head in.
 
-In the Overgrown Cathedral, a dire monkey was fighting Scout and Anka attacked, scoring an extra success. This drove the monkey back just enough that Anka could position themselves between the monkey and Scout—the monkey would have had to maneauver somehow to keep attacking Scout.
+In the Overgrown Cathedral, a dire monkey was fighting Scout and Anka attacked it, scoring an extra success. This drove the monkey back just enough that Anka could position themselves between the monkey and Scout—the monkey would have had to maneauver somehow to keep attacking Scout.
 </details><br/>
 
 5.20 Four extra degrees of success on an attack roll (i.e. beating the AC by 20) can be used to score a direct hit, bypassing the opponents hit points.

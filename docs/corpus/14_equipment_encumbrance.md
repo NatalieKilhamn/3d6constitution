@@ -49,10 +49,8 @@ Sandra "2097" has an extensive [list of example item sizes](https://idiomdrottni
 Maastricht '18 used the LotFP price lists.
 </details><br/>
 
-14.15 The general classes of armour are leather/hide (0 stones, AC 22, 25sp), half-chain (1 stone, 24 AC, 50sp), full chain (2 stone, 26 AC, 100sp), half-plate (3 stone, 28 AC, 500sp) and full plate (4 stone, 30 AC, 1000sp).
+14.15 The general classes of armour are leather/hide (0 stones, AC 22, 25sp), half-chain (1 stone, 24 AC, 50sp), half-plate (2 stone, 26 AC, 100sp), full chain (3 stone, 28 AC, 500sp),  and full plate (4 stone, 30 AC, 1000sp).
 <details><summary markdown="span">Click for history and notes</summary>
 
-Prices are based on those from _[Lamentations of the Flame Princess](https://paulgorman.org/roleplaying/dnd/misc/LotFP_Rules_and_Magic_Free_Version_without_Art.pdf)_. In Maastricht '18 some players remarked that while chainmail is effectively carried on one's shoulders, plate mail is strapped on in a way that distributes the load, and so we switched the encumbrance values around. This meant half-plate was more expensive than full chainmail but it was both lighter _and_ gave better AC.
-  
-Dungeon Crawl '22 started using the original values, where each type of armour is heavier, more expensive, and gives better AC than the previous one. Expect the discussion to be brought up again if and when the campaign transitions to include more logistics and paying for equipment.
+Prices are based on those from _[Lamentations of the Flame Princess](https://paulgorman.org/roleplaying/dnd/misc/LotFP_Rules_and_Magic_Free_Version_without_Art.pdf)_. In Maastricht '18 some players remarked that while chainmail is effectively carried on one's shoulders, plate mail is strapped on in a way that distributes the load, and so we switched the encumbrance values around. Dungeon Crawl '22 started using the original values, where the progression goes half-chain, half-plate, full chain, full plate.
 </details><br/>

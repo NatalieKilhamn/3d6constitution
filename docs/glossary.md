@@ -12,4 +12,6 @@ The _silver pieces_ and _experience points_, both proposed by amendment IX, can 
 The evolution of rules happens partly through play and partly outside it. Play is typically organised into campaigns, where one campaign usually has some sense of unity in referees, players, setting, and when it is played. If a campaign is not otherwise named, these notes will refer to it by the name of the city that served as the main home base for the characters, if applicable, followed by the year in which it was played.
 
 _Maastricht '18_ was the campaign that started off the 3d6 Constitution. Natalie Kilhamn was the referee; there was a core player troupe of five players, and a few guest players joined some of the sessions. It ran for nine sessions over two weeks.
+  
+_Dungeon Crawl '22_ is a currently running campaign that started in October 2022. Natalie Kilhamn is the referee and there is a player pool of around 15 players. It takes place in the same game world as Maastricht '18, 20 years later, and re-uses some of the prep from that campaign.
 </details><br/>

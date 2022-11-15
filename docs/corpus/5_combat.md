@@ -13,7 +13,7 @@ This is known as "superior initiative".
 5.4 A character can take an initiative penalty to declare a reaction to another action.  The more natural the reaction, the smaller the penalty. Some examples: take -2 initiative to defend with a shield, shout a warning, or draw a weapon; take -5 to order subordinates to attack, attack an enemy who lets their guard down, or defend with a shield after the attack roll has been made; take -10 to make a riposte (for a character trained in such) or attack on a clear order when fighting inside an established chain of command.
 
 <details><summary markdown="span">Click for history and notes</summary>
-In the Overgrown Cathedral, Spork paid -2 initiative to roll a wits check to see if any more enemies were approaching. If this were done between rounds, it would have been free (see 5.5)
+In the Overgrown Cathedral, SPORK paid -2 initiative to roll a wits check to see if any more enemies were approaching. If this were done between rounds, it would have been free (see 5.5)
 </details><br/>
 
 5.5 At the end of the round, the current bout of mêlée ends, with all combatants disengaging: circling each other, catching their breath, surveying the other side. Characters can perform actions that fit within the brief respite: knowledge checks, talking, perhaps even producing items from their packs or drinking potions. Physical actions taken between rounds generally cost initiative points. The next round starts as soon as either side demands it.

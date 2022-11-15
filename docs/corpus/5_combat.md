@@ -90,7 +90,9 @@ In the Overgrown Cathedral, firing into mêlée from straight overhead was judge
 </details><br/>
 
 5.22 When making a successful ranged attack, the player can choose to simply describe their action as taking aim. The attack reduces HP as usual. If and when that enemy makes an injury save, due to that attack roll or something else later, the referee can decide that the shooter has taken their shot.
-<details><summary markdown="span">Click for history and notes</summary>
 
+<details><summary markdown="span">Click for history and notes</summary>
 Adapted from these [aiming rules]([https://idiomdrottning.org/arrow_threat/](https://idiomdrottning.org/aiming)) by Sandra "2097".
+  
+Note three sessions into Dungeon Crawl '22: this rule has never been used. In my opinion (Natalie), the fact that HP loss is not injuries already means that any attack is sort of abstract, and adding yet another layer where a ranged attack roll isn't even a clear attempt at an attack might make fighting _too_ abstract. Sandra's rules were also made for the 6-second combat rounds of DnD 5E; in this game's 1-minute combat round making a ranged attack already involves a lot of aiming. I believe it was a mistake to include this rule and think it should be removed.
 </details><br/>

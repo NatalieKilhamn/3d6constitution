@@ -13,9 +13,9 @@ The evolution of rules happens partly through play and partly outside it. Play i
 
 _Maastricht '18_ was the campaign that started off the 3d6 Constitution. Natalie Kilhamn was the referee; there was a core player troupe of five players, and a few guest players joined some of the sessions. It ran for nine sessions over two weeks.
   
-_Stonehell_ was an adventure location visited in the Maastricht '18 campaign.
+_Stonehell_ and _Sky-Blind Spire_ were adventure locations visited in the Maastricht '18 campaign. _Roos_ was a character in that campaign.
   
 _Dungeon Crawl '22_ is a currently running campaign that started in October 2022. Natalie Kilhamn is the referee and there is a player pool of around 15 players. It takes place in the same game world as Maastricht '18, 20 years later, and re-uses some of the prep from that campaign.
   
-_The Overgrown Cathedral_ is an adventure location visited in the Dungeon Crawl '22 campaign.
+_The Overgrown Cathedral_ is an adventure location visited in the Dungeon Crawl '22 campaign. _SPORK_, _Scout_ and _Kettu_ were characters in that campaign.
 </details><br/>

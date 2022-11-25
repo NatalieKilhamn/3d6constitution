@@ -19,9 +19,9 @@ Clear linage from Eero Tuovinen's "Homebrew" system a.k.a. the "Primitive DnD", 
 4.7 The three basic character classes are i) _fighters_, who excel at combat; ii) _sages_, who excel in knowledge, and iii) _adventurers_, who are more flexible and might specialise in other fields.
 
 4.8 A new character must be i) human, ii) from the "civilised world" or Gaul, and iii) relatively short on money. Any player who wishes to create a character different from this must have their concept accepted by the referee. Any player who wishes to use a non-standard character concept that has already been used once may only do so on a roll of 1 on a d6.
-<details><summary markdown="span">Click for history and notes</summary>
 
-Points i) and iii) are almost universal, while point ii) is specific to the "fantasy Europe" setting used in Maastricht '18. Its intent, when originally laid down by the referee of Maastricht '18, was to clearly delineate a part of the world that considers itself to be "the civilized world", and have all player characters be either from there, or from the pre-approved exception of Gaul.
+<details><summary markdown="span">Click for history and notes</summary>
+Points i) and iii) are almost universal, while point ii) is specific to the "fantasy Europe" setting used in Maastricht '18 and Dungeon Crawl '22. Its intent, when originally laid down by the referee of those campaigns, was to clearly delineate a part of the world that considers itself to be "the civilised world", and have all player characters be either from there or from a pre-approved exception (Gaul, which is still culturally close).
 </details><br/>
 
 4.9 A player who participates in a session is rewarded with an opportunity to slightly improve a character they played in that session. This is done by rolling a d20 against any ability; on a roll higher than the ability score, the ability is raised by one point. On a lower roll, the player may try again against another ability. They only get to try to improve each ability once; if all fail, no such improvement happens that session.

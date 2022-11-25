@@ -10,7 +10,7 @@
 
 <details><summary markdown="span">Click for history and notes</summary>
 
-From [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+From [Eero Tuovinen as summarized by David Berg](https://rickard80.github.io/storygames/?19234):
 > * Establish the particulars of a situation before taking action (ref should both volunteer info and answer questions). Examples:
 >   * share info about a mission before the PCs sign up for it
 >   * share info about a dangerous room before the PCs enter it
@@ -21,7 +21,7 @@ From [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/foru
 
 <details><summary markdown="span">Click for history and notes</summary>
 
-From [Eero Tuovinen as summarized by David Berg](http://www.story-games.com/forums/discussion/comment/428649/#Comment_428649):
+From [Eero Tuovinen as summarized by David Berg](https://rickard80.github.io/storygames/?19234):
 > * Opt out as a strategic choice.
 >   * Players should not adopt poor risk/reward propositions "because they're there". A better option is never far off
 </details><br/>

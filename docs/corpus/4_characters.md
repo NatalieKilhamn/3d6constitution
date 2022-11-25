@@ -3,7 +3,7 @@
 4.1 The main ability scores used are i) _strength_, a generic measure of physical competence, ii) _wits_, a measure of quick-thinking and alertness, iii) _knowledge_, a measure of lore and skill, iv) _will_, a measure of mental fortitude and being in tune with oneself, and v) _charisma_, a measure of social intelligence.
 <details><summary markdown="span">Click for history and notes</summary>
 
-Clear linage from [Eero Tuovinen on "Primitive DnD"](http://story-games.com/forums/discussion/comment/326393/#Comment_326393).
+Clear linage from Eero Tuovinen's "Homebrew" system a.k.a. the "Primitive DnD", [here](https://rickard80.github.io/storygames/archive/14363.html) and [here](https://rickard80.github.io/storygames/?21099).
 </details><br/>
 
 4.2 Each attribute is determined by rolling 3d6 when the character is created. A score of 10 is considered that of an average adult human.
@@ -31,6 +31,6 @@ Points i) and iii) are almost universal, while point ii) is specific to the "fan
 4.11 A character's skills are not recorded exhaustively. When a skill is used for the first time, the group considers the character's background and determine a reasonable skill level for them. Skills can go up and down according to the group's shared view of the character.
 <details><summary markdown="span">Click for history and notes</summary>
 
-In [Eero's explanation of his skill system](http://www.story-games.com/forums/discussion/comment/462703/#Comment_462703), he also includes the option to "frivolously" improve a skill instead of an ability score (_cf_ 4.9). That rule might find its way into our rules, if someone makes a push for it.
+In [Eero's explanation of his skill system](https://rickard80.github.io/storygames/?21099), he also includes the option to "frivolously" improve a skill instead of an ability score (_cf_ 4.9). That rule might find its way into our rules, if someone makes a push for it.
 </details><br/>
 

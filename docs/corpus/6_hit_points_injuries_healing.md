@@ -20,7 +20,7 @@ In Dungeon Crawl '22, there was some confusion in the first few sessions around 
 6.6 When a character is hurt and is not protected by hit points, they will be injured. They must roll two injury saves: a strength save to determine the severity and a will save to determine whether they are still standing. For regular attacks, the DC of both saves is 20 plus the amount of damage "overflow" when their hit points ran out.
 
 <details><summary markdown="span">Click for history and notes</summary>
-The injury rules are a natural result of wanting characters with hit points being protected from injury, but not wanting characters go instantly from fighting fit to dead at 0 hit points. The original implementation is from [Eero Tuovinen](http://story-games.com/forums/discussion/comment/463440/#Comment_463440).
+The injury rules are a natural result of wanting characters with hit points being protected from injury, but not wanting characters go instantly from fighting fit to dead at 0 hit points. The original implementation is from [Eero Tuovinen](https://rickard80.github.io/storygames/?21099).
 </details><br/>
 
 6.7 Passing the strength injury save gives the character a minor wound. Failing means the character either dies outright, or they get a major wound—player's choice.
@@ -37,7 +37,7 @@ Partway through the Overgrown Cathedral, Natalie started using a GM-side system 
 
 <details><summary markdown="span">Click for history and notes</summary>
 
-The discussion leading to the decision of giving the ref "free reign to think up whatever injury" can be found [here](http://story-games.com/forums/discussion/comment/476092/#Comment_476092).
+The discussion leading to the decision of giving the ref "free reign to think up whatever injury" can be found [here](https://rickard80.github.io/storygames/?21760).
 </details><br/>
 
 6.11 A character taking a major wound must make a mark on their character sheet. Any character having as many such marks as their level cannot choose to take another major injury; should they fail a strength injury check they die outright.

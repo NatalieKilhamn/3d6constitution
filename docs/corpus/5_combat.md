@@ -78,7 +78,7 @@ It would seem to follow from this that such henchmen and NPC lackeys cannot take
 
 The specific effect of driving one's foe back was used extensively in the fight against the giant pelicans in the [Sky-Blind Spire](http://blog.trilemma.com/2016/04/the-sky-blind-spire.html). One extra success let the character drive a pelican slightly backwards; two successes were required to drive them out a window. Once outside, only one pelican could attack in through the window, forcing another to hover behind it without acting, while two humans could attack the one sticking its head in.
 
-In the Overgrown Cathedral, a dire monkey was fighting Scout and Anka attacked it, scoring an extra success. This drove the monkey back just enough that Anka could position themselves between the monkey and Scout—the monkey would have had to maneauver somehow to keep attacking Scout.
+In the Overgrown Cathedral, Scout was fighting a dire monkey and Kettu joined in, scoring an extra success on their attack on the monkey. This drove the monkey back just enough that Kettu could position themselves between the monkey and Scout (defending the weaker Scout).
 </details><br/>
 
 5.20 Four extra degrees of success on an attack roll (i.e. beating the AC by 20) can be used to score a direct hit, bypassing the opponents hit points.
@@ -94,5 +94,5 @@ In the Overgrown Cathedral, firing into mêlée from straight overhead was judge
 <details><summary markdown="span">Click for history and notes</summary>
 Adapted from these [aiming rules]([https://idiomdrottning.org/arrow_threat/](https://idiomdrottning.org/aiming)) by Sandra "2097".
   
-Note three sessions into Dungeon Crawl '22: this rule has never been used. In my opinion (Natalie), the fact that HP loss is not injuries already means that any attack is sort of abstract, and adding yet another layer where a ranged attack roll isn't even a clear attempt at an attack might make fighting _too_ abstract. Sandra's rules were also made for the 6-second combat rounds of DnD 5E; in this game's 1-minute combat round making a ranged attack already involves a lot of aiming. I believe it was a mistake to include this rule and think it should be removed.
+Note: four sessions into Dungeon Crawl '22: this rule has never been used. In my opinion (Natalie), the fact that HP loss is not injuries already means that any attack is sort of abstract, and adding yet another layer where a ranged attack roll isn't even a clear attempt at an attack might make fighting _too_ abstract. Sandra's rules were also made for the 6-second combat rounds of DnD 5E; in this game's 1-minute combat round making a ranged attack already involves a lot of aiming. I believe it was a mistake to include this rule and think it should be removed.
 </details><br/>

@@ -28,4 +28,4 @@
 
 12.14 Focused academic study of a spell gives 1d6 points of skill improvement per full day spent.
 
-12.15 A character who tried to cast at least one spell during a session gets an extra improvement roll at the end of the session. This roll is not for abilities; instead they can try to improve one spell skill rating. The player rolls a d100: if the result is higher than their current rating, they get the result as their new rating; if it is lower, they improve it by 1d6 points instead.
+12.15 A character who tried to cast at least one spell during a session gets an extra improvement roll at the end of the session. This roll is not for abilities; instead they can try to improve the skill rating of one spell they attempted. The player rolls a d100: if the result is higher than their current rating, they get the result as their new rating; if it is lower, they improve it by 1d6 points instead.

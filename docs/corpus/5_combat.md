@@ -26,7 +26,7 @@ Originally, the rule was that re-orienting was done between rounds, but the char
 
 5.7 Casting a memorised spell must be declared between rounds, and is considered to take effect on the character’s own turn in the new round. Other characters can notice that the magician is trying to cast a spell from the start of the round, if for example they want to interrupt the casting.
 
-5.8 If one side is unable or unwilling to withdraw from the bout, for example keeping their enemy locked in wrestling, they can force the bout to continue. Everyone involved takes -10 to their initiative score, and possible loses some HP, and start a new round immediately. They are not able to take any of the usual between-rounds actions. If all combatants drop to 0 initiative, the bout ends with the combatants forcibly separating as their bodies give away, or retreating under the power of pure instinct.
+5.8 If one side is unable or unwilling to withdraw from the bout, for example keeping their enemy locked in wrestling, they can force the bout to continue. Everyone involved takes -10 to their initiative score, and possibly loses some HP, and start a new round immediately. They are not able to take any of the usual between-rounds actions. If all combatants drop to 0 initiative, the bout ends with the combatants forcibly separating as their bodies give away, or retreating under the power of pure instinct.
 
 5.9 If a character’s initiative drops to 0, they are disoriented or flat-footed; they're uncertain about the quick events and momentarily distracted. This is a dangerous state: it allows opportunity attacks against the character (as if they dropped their guard) and disallows reactions. It also gives a penalty die to re-orienting rolls.
 

@@ -19,7 +19,7 @@ For the starting PCs of Dungeon Crawl '22, rather than paying retroactively the 
 9.4 _Keen eyes_: you gain a bonus equal to your level to any checks involving searching for hidden things and other situations where your eyesight makes a difference.
 
 <details><summary markdown="span">Click for history and notes</summary>
-In Dungeon Crawl '22, this initiation was deemed quite weak since the bonus only applied to searching rolls. The discussion ended up splitting it in two: the original "keen eyes" would see the +lvl bonus applied to all situations where good eyesight was a major component, and the new _Finder_ (9.5). The improved version of _Keen eyes_ has not yet seen any use as Rönn chose to "upgrade" their version into _Finder_ instead.
+In Dungeon Crawl '22, this initiation was deemed quite weak since the bonus only applied to searching rolls. The discussion ended up splitting it in two: the original "keen eyes" would see the +lvl bonus applied to all situations where good eyesight was a major component, and the new Finder (9.5). The improved version of Keen eyes has not yet seen any use as Rönn chose to "upgrade" their version into Finder instead.
 </details><br/>
 
 9.5 _Finder_: you can roll Wits to search a place visually just by looking around it quickly.

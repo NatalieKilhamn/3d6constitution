@@ -16,8 +16,10 @@ In Eero's original formulation, this would work in combat, but only when doing s
 For the starting PCs of Dungeon Crawl '22, rather than paying retroactively the rule is simply that only mundane, reasonably affordable items can be found this way. It has also been established that the character can not roll again for the same situation, even if they can think of a completely different potentially useful thing.
 </details><br/>
 
-9.4 _Keen eye_: you gain a bonus equal to your level to any checks involving searching for hidden things.
+9.4 _Keen eyes_: you gain a bonus equal to your level to any checks involving searching for hidden things and other situations where your eyesight makes a difference.
 
 <details><summary markdown="span">Click for history and notes</summary>
-This initiation seems to be very weak. Perhaps it should be buffed somehow, like applying the bonus to other sight-related things as well.
+In Dungeon Crawl '22, this initiation was deemed quite weak since the bonus only applied to searching rolls. The discussion ended up splitting it in two: the original "keen eyes" would see the +lvl bonus applied to all situations where good eyesight was a major component, and the new _Finder_ (9.5). The improved version of _Keen eyes_ has not yet seen any use as Rönn chose to "upgrade" their version into _Finder_ instead.
 </details><br/>
+
+9.5 _Finder_: you can roll Wits to search a place visually just by looking around it quickly.

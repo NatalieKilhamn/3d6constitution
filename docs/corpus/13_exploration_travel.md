@@ -2,9 +2,15 @@
 
 13.1 One _exploration turn_ is 10 minutes long; this unit is defined purely for convenient reference. A typical result of a successful ability check in exploration, e.g. searching for hidden doors, is that the task succeeds in a set number of turns, while allowing for extra degrees of success to reduce the number of turns taken.
 
-13.2 A burning torch lasts for 6 turns, a small candle for 18 turns, and a lantern will last 24 turns on a small flask of oil.
+13.2 A burning torch lasts for 6 turns and a small candle for 18 turns. A lantern will hold oil lasting 8 hours (48 turns), and a small flask of oil can fill it twice i.e. give 16 hours of light.
+<details><summary markdown="span">Click for history and notes</summary>
+The original rule for lamps was 24 turns i.e. 3 hours, but this was changed early on in Dungeon Crawl '22 after looking up realistic burning durations of lantern oil. The current rule may even be something of a compromise with gamist concerns (i.e. real lantern oil may last even longer).
+</details><br/>
 
 13.3 The referee tracks the in-game time, and the characters do not necessarily know the exact time of day (especially not when exploring underground). The referee will make judgment calls on how long time exploration, mapping, discussions and similar tasks take.
+<details><summary markdown="span">Click for history and notes</summary>
+A common baseline is that one interaction (searching a room, one attempt to pick a lock or break down a door) takes one or two turns.
+</details><br/>
 
 13.4 An unencumbered character travels at a base rate of 24 miles per day over country roads. Travelling off-road over plains, or following trails through what is otherwise wilderness, reduces this to 18 miles. Travelling over deserts, hills or through forests brings it down to 12 miles, and through jungles, mountains or swamps an unencumbered character only marks 8 miles per day.
 

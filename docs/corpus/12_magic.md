@@ -38,7 +38,7 @@ A character ought to be able to count the spell preparation as a short rest, re-
 Speculative: the option to learn a spell from the object of study may be unavailable, for example when studying a spellbook all of whose spells you know, or studying a magic artifact whose ability cannot realistically be made into a spell. It seems to me that in the first case you have nothing to learn and further study gives no gains; in the second case you can still use it to further your own spell research.
 </details><br/>
 
-12.10.3 A character can only learn a new spell from the study of the same source of knowledge once per level.
+12.10.3 A character can only learn a new spell from the study of the same source of knowledge once on each level.
 
 12.11 After gaining a level, a character can expand their own understanding of magic even without an external source of magic knowledge: they gain an extra opportunity for spell research within the fields of their magic initiations.
 

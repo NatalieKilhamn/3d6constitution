@@ -23,3 +23,11 @@ In Dungeon Crawl '22, this initiation was deemed quite weak since the bonus only
 </details><br/>
 
 9.5 _Finder_: you can roll Wits to search a place visually just by looking around it quickly.
+
+9.6 _Sneaky_: you gain a bonus equal to your level to rolls related to hiding, sneaking and scouting from hiding.
+
+9.7 _Alert_: you gain a bonus to initiative rolls equal to your level.
+
+<details><summary markdown="span">Click for history and notes</summary>
+First suggested by Scout, under the Swedish name "Alltid redo" i.e. the scouts' motto.
+</details><br/>

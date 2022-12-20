@@ -59,15 +59,16 @@ This amendment was written around 2018-08-23. It owes in part to [Eero Tuovinen 
 </details><br/>
 
 <h2>IV. On the limits of established fiction</h2>
-WHEREAS there are other considerations than the satisfying resolution of challenges, and
-
 WHEREAS the established fiction will at times be vague or abstract,
+
+WE ACKNOWLEDGE that despite our best efforts at clear communication, we might still at times disagree with each other about what was established. In these cases, one player's fiction might be revised to fit another's vision. In these considerations, we will strive to be fair towards both tactical, strategic and aesthetic choices made by anyone under a certain impression.
+
+Furthermore, WE ACKNOWLEDGE that even with the help of a referee tracking information unknown to the players, there will be cases of previously irrelevant information suddenly becoming crucial without having been established. Here, we propose to use a probabilistic model of the fictional world. With the characters' lives at stake, it can prove difficult to determine fairly whether the dragon is in its cave, but much easier to judge the probability thereof.
+
+Finally, WHEREAS there are other considerations than the satisfying resolution of challenges,
 
 WE PROPOSE that, quite contrary to a previous amendment, the fiction can be creatively interpreted, bent, or even revised when doing so serves the higher purpose of allowing interesting play to happen within a session. An example of this would be to concede the most outrageously unlikely happenstances because they bring about a set of characters such that all players are allowed to play.
 
-FURTHERMORE, we acknowledge that despite our best efforts at clear communication, we might still at times disagree with each other about what was established. In these cases, one player's fiction might be revised to fit another's vision. In these considerations, we will strive to be fair towards both tactical, strategic and aesthetic choices made by anyone under a certain impression.
-
-FINALLY, we acknowledge that even with the help of a referee tracking information unknown to the players, there will be cases of previously irrelevant information suddenly becoming crucial without having been established. Here, we propose to use a probabilistic model of the fictional world. With the characters' lives at stake, it can prove difficult to determine fairly whether the dragon is in its cave, but much easier to judge the probability thereof.
 
 <details><summary markdown="span">Click for history and notes</summary>
 

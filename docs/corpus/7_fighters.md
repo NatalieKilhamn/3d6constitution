@@ -11,7 +11,7 @@ In Dungeon Crawl '22 the rule was "all combat-related d20 rolls", which ought to
 
 <h3>Precedents for fighter-exclusive initiations</h3>
 
-7.2 _Tough fucker_: you roll d8 hit dice instead of d6, and you can keep your last hit point total after re-rolling instead of having to take the new value.
+7.2 _Tough fucker_: you roll d8 hit dice instead of d6, and you can keep your last hit point total after re-rolling (short rest) instead of having to take the new value.
 <details><summary markdown="span">Click for history and notes</summary>
 
 In Maastricht '18 the rule was slightly different, see notes for 6.4.

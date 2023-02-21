@@ -18,7 +18,7 @@
 
 8.8 _Big brain_: you have trained your mind to hold spells. Can memorise any spells you know to cast them quickly. You gain an extra 1st-level spell slot. Study magic +10%.
 
-8.9 _The Lord's Protection_: you are beloved by the Lord. When you pray for protection (takes 1 minute), you and your comrades gain the [Lord's blessing](11_priests_blessings) for the purpose of survival.
+8.9 _The Lord's Protection_: you are beloved by the Lord. When you pray for protection (takes 1 minute), you and your comrades gain the [Lord's blessing](11_priests_blessings) for the purpose of surviving a present or imminent danger.
 
 <details><summary markdown="span">Click for history and notes</summary>
 Taken by Avilius Adeodatus Severinus. In the Werewolf Fortress this only gave +1 AC, but perhaps it should be extended at least to death saves.

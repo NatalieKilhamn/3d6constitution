@@ -15,3 +15,5 @@
 8.6 _Artifact knowledge_: with some basic study, you can identify the properties of magical items and potions. Study magic artifacts +20%.
 
 8.7. _Herbalist_: your medicine skill rating is 100%. Add +lvl to medicine checks (if you have your herbs) and foraging. You can always use your medicine skill to attempt to treat poisons, illnesses and infections, even magical ones.
+
+8.8. _Big brain_: You can memorise any spells you know to cast them quickly. You gain an extra 1st-level spell slot. Study magic +10%.
